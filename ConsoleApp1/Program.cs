@@ -117,6 +117,7 @@ namespace ConsoleApp1
                 else
                 {
                     Console.WriteLine("No existe un alumno con ese carnet.");
+                    Console.WriteLine("Sepa la bola");
                 }
             }
         }
